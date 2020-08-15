@@ -1,2 +1,0 @@
-# SentimentalAnalysis
-Proyecto de IA
